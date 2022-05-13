@@ -74,4 +74,18 @@
 .btn:hover{
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
 }
+  @media (max-width: 800px) {
+    .btn {
+      font-size: 12px;
+    }
+    .input-group{
+        padding-right: 20px;
+    }
+    .heading{
+        padding-left: 31%;
+    }
+    .form-group{
+        padding-left: 30%;
+    }
+  }
  
